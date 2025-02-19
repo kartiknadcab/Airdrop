@@ -2,7 +2,7 @@
     {
         "token_address":"0x343813AFcA20FD722270C15a08eC77c5817bd8D3",
         "name":"USDT",
-        "icon":"https://smttoken.io/images/SMTLOGO.png",
+        "icon":"https://smttoken.io/app/assets/faviicon-DC3vGH1L.png",
         "symbol":"USDT",
         "decimal":18,
         "mintable":"yes",
