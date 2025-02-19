@@ -1,0 +1,17 @@
+[
+    {
+        "token_address":"0x343813AFcA20FD722270C15a08eC77c5817bd8D3",
+        "name":"USDT",
+        "icon":"https://smttoken.io/images/SMTLOGO.png",
+        "symbol":"USDT",
+        "decimal":18,
+        "mintable":"yes",
+        "burnable":"yes",
+        "audit":"yes",
+        "sub_description":"SmtToken DeFi's goal is to give stablecoin and altcoin consumers with safe, yield-enhancing solutions that allow them to earn significant returns relative to their risk.",
+        "whitePaper":"",
+        "website":"https://smttoken.io"
+        
+    }
+   
+]
