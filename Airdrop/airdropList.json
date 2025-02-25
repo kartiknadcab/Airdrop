@@ -1,9 +1,9 @@
 [
     {
-        "token_address":"0x343813AFcA20FD722270C15a08eC77c5817bd8D3",
-        "name":"USDT",
+        "token_address":"0x9Ce628EfF562513264d2DA93bB846b6F890bb9c1",
+        "name":"SMT Token",
         "icon":"https://smttoken.io/app/assets/SMT.png",
-        "symbol":"USDT",
+        "symbol":"SMT",
         "decimal":18,
         "mintable":"yes",
         "burnable":"yes",
